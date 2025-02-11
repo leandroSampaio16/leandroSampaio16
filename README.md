@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="./superMario.gif">
+  <img src="./superMario.gif" width="90%">
 </div>
 
 <!-- get badges here: https://github.com/Ileriayo/markdown-badges -->
