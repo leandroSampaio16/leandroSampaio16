@@ -7,13 +7,14 @@
 <br>
 <br>
 
-<img align="right" src="./campfire.gif"  width="100px"> 
+<img align="right" src="./campfire.gif"  width="150px"> 
 📍 Located in Aveiro, Portugal<br>
 🎓 Studying Informatics and Computing Engineering<br>
 🏫 University of Porto, Portugal <br>
  
 <hr></hr>
 
+<br>
 <br>
 
 
@@ -23,6 +24,7 @@
 
 <!-- get badges here: https://github.com/Ileriayo/markdown-badges -->
 
+<br>
 <br>
 
 
