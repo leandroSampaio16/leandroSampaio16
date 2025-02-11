@@ -8,7 +8,7 @@
 </br>
 <img align="right" src="./campfire.gif" width="100">
 
-<div align="left" style="margin-bottom: 0px;">
+<div align="left">
   📍 Located in Aveiro, Portugal<br>
   🎓 Studying Informatics and Computing Engineering<br>
   🏫 University of Porto, Portugal
@@ -18,7 +18,8 @@
 
 
 </br>
-<img align="center" src="./superMario.gif" width="90%" style="border-radius: 10px;">
+
+<img align="center" src="./superMario.gif" width="90%">
 
 
 
@@ -60,7 +61,6 @@
 
 </br>
 
-<div style="background-color: #161B22; padding: 10px; border-radius: 8px; display: inline-block;" align="center">
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandroSampaio16/leandroSampaio16/output/github-snake-dark.svg" />
@@ -68,6 +68,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/leandroSampaio16/leandroSampaio16/output/github-snake.svg" />
 </picture>
 
-</div>
 
 
