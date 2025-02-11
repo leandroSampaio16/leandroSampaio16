@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/██████████████████████████████████-0E1217?style=flat&labelColor=0E1217&color=0E1217" width="100%">
-</p>
 </br>
 <div align="center">
 
@@ -8,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leandro.sampaio.16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leandrosampaio16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leandrosampaio1605@gmail.com) 
 </div>
 </br>
-
+</br>
 <img align="right" src="./campfire.gif" width="100">
 
 <div align="left" style="margin-bottom: 0px;">
@@ -56,16 +53,10 @@
 
 ### GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=leandroSampaio16&count_private=true&theme=dracula&hide_border=false&show_icons=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSampaio16&layout=compact&theme=dracula&hide_border=false"/>
-    </td>
-  </tr>
-</table>
+<div align="center" display="flex" style="color:red;">
+      <img src="https://github-readme-stats.vercel.app/api?username=leandroSampaio16&count_private=true&theme=dracula&hide_border=false&show_icons=true" height="160rem"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSampaio16&layout=compact&theme=dracula&hide_border=false" height="160rem"/>
+</div>
 
 </br>
 
@@ -80,4 +71,3 @@
 </div>
 
 
-</div>
