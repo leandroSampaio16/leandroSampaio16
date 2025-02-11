@@ -14,11 +14,17 @@
  
 <hr></hr>
 
+<br>
+
+
 <div align="center">
   <img src="./superMario.gif">
 </div>
 
 <!-- get badges here: https://github.com/Ileriayo/markdown-badges -->
+
+<br>
+
 
 <div align="center">
   
