@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<img align="right" src="./campfire.gif"  width="100px"> 
+<img align="right" src="./campfire.gif"  width="70px"> 
 📍 Located in Aveiro, Portugal<br>
 🎓 Studying Informatics and Computing Engineering<br>
 🏫 University of Porto, Portugal <br>
