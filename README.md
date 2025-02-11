@@ -1,33 +1,28 @@
-</br>
 <div align="center">
 
 # Leandro Sampaio
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leandro.sampaio.16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leandrosampaio16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leandrosampaio1605@gmail.com) 
 </div>
-</br>
-</br>
-<img align="right" src="./campfire.gif" width="100">
 
-<div align="left">
-  📍 Located in Aveiro, Portugal<br>
-  🎓 Studying Informatics and Computing Engineering<br>
-  🏫 University of Porto, Portugal
+<br>
+<br>
+
+<img align="right" src="./campfire.gif"  width="100px"> 
+📍 Located in Aveiro, Portugal<br>
+🎓 Studying Informatics and Computing Engineering<br>
+🏫 University of Porto, Portugal <br>
+ 
+<hr></hr>
+
+<div align="center">
+  <img src="./superMario.gif">
 </div>
 
-<hr style="clear: both;">
+<!-- get badges here: https://github.com/Ileriayo/markdown-badges -->
 
-
-</br>
-
-<img align="center" src="./superMario.gif" width="90%">
-
-
-
-
-</br>
 <div align="center">
-
-### Tech Stack:
+  
+### Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
@@ -49,14 +44,16 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
 
-</br>
-<hr style="clear: both;">
+  </div>
 
-### GitHub Stats
+<hr></hr>
 
+<br>
 <div align="center" display="flex" style="color:red;">
-      <img src="https://github-readme-stats.vercel.app/api?username=leandroSampaio16&count_private=true&theme=dracula&hide_border=false&show_icons=true" height="160rem"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSampaio16&layout=compact&theme=dracula&hide_border=false" height="160rem"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leandroSampaio16&count_private=true&theme=dracula&hide_border=false&show_icons=true"
+    height="160rem"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSampaio16&layout=compact&theme=dracula&hide_border=false"
+    height="160rem"/>
 </div>
 
 </br>
@@ -67,6 +64,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leandroSampaio16/leandroSampaio16/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/leandroSampaio16/leandroSampaio16/output/github-snake.svg" />
 </picture>
-
-
-
