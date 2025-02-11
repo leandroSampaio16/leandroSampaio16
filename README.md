@@ -1,5 +1,6 @@
-<div align="center" style="background-color: #0E1217; padding: 20px; border-radius: 10px;">
-
+<p align="center">
+  <img src="https://img.shields.io/badge/██████████████████████████████████-0E1217?style=flat&labelColor=0E1217&color=0E1217" width="100%">
+</p>
 </br>
 <div align="center">
 
