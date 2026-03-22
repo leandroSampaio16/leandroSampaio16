@@ -58,8 +58,7 @@
 
 <br>
 <div align="center" display="flex" style="color:red;">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandroSampaio16&count_private=true&theme=dracula&hide_border=false&show_icons=true"
-    height="160rem"/>
+  ![leandroSampaio16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leandroSampaio16&theme=dracula&hide_border=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSampaio16&layout=compact&theme=dracula&hide_border=false"
     height="160rem"/>
 </div>
