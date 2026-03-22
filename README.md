@@ -58,10 +58,8 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leandroSampaio16&theme=dracula&hide_border=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSampaio16&layout=compact&theme=dracula&hide_border=true" 
-       height="160rem"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leandroSampaio16&theme=dracula&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroSampaio16&layout=compact&theme=dracula&hide_border=true" height="160px"/>
 </div>
 
 </br>
